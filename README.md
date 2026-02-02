@@ -21,7 +21,8 @@ The objective of this project is to demonstrate **data visualization, sports ana
 ## 📷 Dashboard Preview
 
 
-<img width="1388" height="758" alt="IPL Analysis Dashboard" src="https://github.com/user-attachments/assets/d6867297-3d1f-451f-ae3a-8276a95eb08b" />
+<img width="1398" height="769" alt="IPL Analysis Dashboard" src="https://github.com/user-attachments/assets/f408c91d-0e7a-4792-a740-782a85d4f842" />
+
 
 
 ---
